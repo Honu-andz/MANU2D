@@ -1,0 +1,6 @@
+{
+  "name": "Pasture Sprint: 2D Endless Runner",
+  "description": "An arcade 2D endless runner through pastoral meadows with cows and buffaloes, jumping obstacles with distinct hit audio, custom character skins, and sound studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
